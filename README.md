@@ -1,111 +1,231 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:000000,35:050816,65:0b1026,100:111827&text=SAI%20PRANEETH%20KUMAR%20MOLLETI&fontSize=32&fontColor=ffffff&fontAlignY=40&animation=fadeIn&desc=AI%20ENGINEER%20%E2%80%A2%20RAG%20%E2%80%A2%20MULTI-AGENT%20SYSTEMS%20%E2%80%A2%20LLM%20PRODUCTS&descAlignY=60&descSize=15" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:000000,25:050816,50:0b1026,75:111827,100:1a1040&text=SAI%20PRANEETH%20KUMAR%20MOLLETI&fontSize=36&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=AI%20Engineer%20%7C%20RAG%20Architect%20%7C%20Multi-Agent%20Systems&descAlignY=55&descSize=16&descColor=a78bfa" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2200&pause=700&color=7C3AED&center=true&vCenter=true&width=980&lines=building+AI+systems+that+retrieve%2C+reason%2C+and+ship;production-grade+RAG+%E2%80%A2+multi-agent+workflows+%E2%80%A2+FastAPI;voice+AI+%E2%80%A2+multilingual+pipelines+%E2%80%A2+real-time+streaming" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=800&color=7C3AED&center=true&vCenter=true&width=900&lines=%E2%9A%A1+building+AI+systems+that+retrieve%2C+reason%2C+and+ship;%F0%9F%94%A5+production-grade+RAG+%E2%80%A2+multi-agent+orchestration;%F0%9F%8C%8D+voice+AI+%E2%80%A2+multilingual+pipelines+%E2%80%A2+streaming+UX;%F0%9F%9A%80+from+prototype+to+production+in+record+time" />
 
 <br/>
-<br/>
 
-[![Email](https://img.shields.io/badge/email-contact-7C3AED?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:praneethkumar.m@yahoo.com)
-[![Nexus Project](https://img.shields.io/badge/project-nexus-06B6D4?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/MSPK99/nexus-showcase)
-[![Repositories](https://img.shields.io/badge/github-repositories-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MSPK99?tab=repositories)
+[![Email](https://img.shields.io/badge/_%20praneethkumar.m@yahoo.com-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:praneethkumar.m@yahoo.com)&nbsp;&nbsp;
+[![Nexus](https://img.shields.io/badge/_%20NEXUS_PROJECT-06B6D4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MSPK99/nexus-showcase)&nbsp;&nbsp;
+[![Repos](https://img.shields.io/badge/_%20ALL_REPOS-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MSPK99?tab=repositories)
 
 </div>
 
 <br/>
 
----
-
-### ⚡ `SYSTEM.INITIALIZATION`
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
 
 <br/>
 
-```json
-{
-  "developer": "Sai Praneeth Kumar Molleti",
-  "designation": "AI Engineer",
-  "core_focus": [
-    "Production-grade RAG Pipelines",
-    "Multi-Agent Orchestration",
-    "High-Performance FastAPI Backends",
-    "Voice & Multilingual AI"
-  ],
-  "current_status": "Building intelligent systems that scale"
-}
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"> &nbsp;`WHO AM I`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+```yaml
+name: Sai Praneeth Kumar Molleti
+role: AI Engineer
+location: United Kingdom
+education: MSc Robotics & AI — University of Glasgow
+
+mission: >
+  I build AI systems that don't just demo well —
+  they ship, scale, and solve real problems.
 ```
 
+</td>
+<td width="50%" valign="top">
+
+```yaml
+core_stack:
+  languages:    [ Python, JavaScript ]
+  backend:      [ FastAPI, Streaming APIs ]
+  ai_infra:     [ LangGraph, ChromaDB, Groq ]
+  cloud:        [ AWS, Docker, Render ]
+  speciality:   [ RAG, Multi-Agent, Voice AI ]
+
+status: "🟢 Open for work & freelance builds"
+```
+
+</td>
+</tr>
+</table>
+
 <br/>
 
----
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
 
-### 🧠 `CORE_ARCHITECTURE`
+<br/>
+
+## 🧠 &nbsp;`TECH ARSENAL`
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,aws,docker,git,github,js,html,css,vscode" />
+<img src="https://skillicons.dev/icons?i=python,fastapi,aws,docker,git,github,js,html,css,vscode&perline=10" />
 </div>
 
 <br/>
 
-| Layer | Technologies & Paradigms |
-|:---|:---|
-| **Orchestration** | LangGraph, Multi-Agent Workflows, State Machines |
-| **Data & Retrieval** | ChromaDB, Retrieval + Reranking, Vector Search |
-| **Inference** | Groq, LLM Integration, Voice AI Output |
-| **Infrastructure** | FastAPI, Streaming APIs, Real-time Interfaces |
-
-<br/>
-
----
-
-### 🚀 `FLAGSHIP_DEPLOYMENT`
-
-#### NEXUS: Multi-Source AI Research Assistant
-
-> A high-performance pipeline turning scattered data into cited, grounded, and actionable intelligence.
-
-- **Ingestion** — Real-time document parsing + dynamic web search integration
-- **Reasoning** — Advanced RAG architecture with citation-grounded outputs
-- **Interface** — Multilingual processing, voice input/output, live pipeline visualization
-- **Output** — Seamless PDF export + persistent knowledge storage
-
-<br/>
-
----
-
-### ⚙️ `OPTIMIZATION_PARAMETERS`
-
-> I build systems designed for the real world. My engineering philosophy prioritizes:
-
-- 🎯 **Accuracy** — Advanced retrieval, intelligent reranking, hallucination reduction
-- 🛡️ **Trust** — Verifiable citations, observability, clear reasoning traces
-- ⚡ **Speed** — Lightning-fast APIs, streaming UX, zero-bottleneck pipelines
-- ✨ **Product Feel** — Responsive interfaces that feel like magic, not a prototype
-
-<br/>
-
----
-
-### 📡 `TELEMETRY`
-
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MSPK99&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=00000000&title_color=7C3AED&text_color=ffffff&icon_color=06B6D4&rank_icon=github" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=MSPK99&theme=midnight-purple&hide_border=true&background=00000000&ring=7C3AED&fire=06B6D4&currStreakLabel=ffffff" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MSPK99&layout=compact&theme=midnight-purple&hide_border=true&bg_color=00000000&title_color=7C3AED&text_color=ffffff" />
+<table>
+<tr>
+<td align="center" width="25%">
+
+**🔗 Orchestration**
+<br/><br/>
+`LangGraph`
+`Multi-Agent`
+`State Machines`
+`Tool Routing`
+
+</td>
+<td align="center" width="25%">
+
+**🗄️ Data & Retrieval**
+<br/><br/>
+`ChromaDB`
+`Hybrid Search`
+`Reranking`
+`Parent-Child Chunks`
+
+</td>
+<td align="center" width="25%">
+
+**🧠 Inference**
+<br/><br/>
+`Groq / LLMs`
+`Voice I/O`
+`Multilingual`
+`Streaming SSE`
+
+</td>
+<td align="center" width="25%">
+
+**🏗️ Infrastructure**
+<br/><br/>
+`FastAPI`
+`Real-time APIs`
+`Edge TTS`
+`PDF Pipelines`
+
+</td>
+</tr>
+</table>
 </div>
 
 <br/>
 
----
-
-### 🤝 `HANDSHAKE_PROTOCOL`
-
-> Actively open to: **AI Engineering roles** • **Freelance AI Builds** • **Custom RAG / Retrieval Systems** • **Intelligent Internal Tools**
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
 
 <br/>
 
+## 🚀 &nbsp;`FLAGSHIP BUILD`
+
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:000000,50:7C3AED,100:06B6D4" />
-  <br/><br/>
-  <b>"I don't build AI gimmicks. I build AI systems."</b>
+
+<a href="https://github.com/MSPK99/nexus-showcase">
+<img src="https://img.shields.io/badge/🔬_NEXUS:_Multi--Source_AI_Research_Assistant-7C3AED?style=for-the-badge&labelColor=000000" />
+</a>
+
+<br/><br/>
+
+*A high-performance pipeline that turns scattered data into cited, grounded, and actionable intelligence.*
+
+</div>
+
+<br/>
+
+<table>
+<tr>
+<td width="50%">
+
+### 📥 Ingestion & Reasoning
+- **Multi-format parsing** — PDFs, docs, web pages in real time
+- **Dynamic web search** — Live data pulled into the RAG pipeline
+- **Advanced retrieval** — Hybrid search + intelligent reranking
+- **Citation-grounded outputs** — Every claim is traceable
+
+</td>
+<td width="50%">
+
+### 🎨 Interface & Output
+- **25+ languages** — Telugu, Hindi, Chinese, and more
+- **Voice in/out** — Groq Whisper + Edge TTS integration
+- **Live streaming** — Server-Sent Events for real-time chat
+- **PDF export** — One-click polished report generation
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
+
+<br/>
+
+## ⚙️ &nbsp;`ENGINEERING PHILOSOPHY`
+
+<div align="center">
+
+| | Principle | What It Means |
+|:---:|:---|:---|
+| 🎯 | **Accuracy First** | Advanced retrieval, intelligent reranking, hallucination reduction |
+| 🛡️ | **Trust by Design** | Verifiable citations, observability, clear reasoning traces |
+| ⚡ | **Speed Obsessed** | Lightning-fast APIs, streaming UX, zero-bottleneck pipelines |
+| ✨ | **Product Polish** | Interfaces that feel like magic, not a prototype |
+
+</div>
+
+<br/>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
+
+<br/>
+
+## 📊 &nbsp;`METRICS`
+
+<div align="center">
+
+<a href="https://github.com/MSPK99">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=MSPK99&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7C3AED&text_color=c9d1d9&icon_color=06B6D4&ring_color=7C3AED&rank_icon=github" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/MSPK99">
+  <img height="180" src="https://streak-stats.demolab.com?user=MSPK99&theme=tokyonight&hide_border=true&background=0d1117&ring=7C3AED&fire=06B6D4&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=555555&currStreakNum=ffffff&sideNums=ffffff" />
+</a>
+
+<br/><br/>
+
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=MSPK99&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=7C3AED&line=06B6D4&point=ffffff&area=true&area_color=7C3AED" />
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=MSPK99&theme=discord&no-frame=true&no-bg=true&column=6&margin-w=15" />
+
+</div>
+
+<br/>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
+
+<br/>
+
+## 🤝 &nbsp;`LET'S BUILD SOMETHING`
+
+<div align="center">
+
+**Actively open to:**
+
+`AI Engineering Roles` · `Freelance AI Builds` · `Custom RAG Systems` · `Intelligent Internal Tools`
+
+<br/>
+
+[![Hire Me](https://img.shields.io/badge/📩_Let's_Talk-7C3AED?style=for-the-badge)](mailto:praneethkumar.m@yahoo.com)
+
+<br/><br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:000000,25:050816,50:0b1026,75:111827,100:1a1040&section=footer" />
+
 </div>
