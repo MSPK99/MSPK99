@@ -18,85 +18,20 @@
 
 </div>
 
----
+<br/>
 
-```bash
-$ whoami
-Sai Praneeth Kumar Molleti
+### ⚡ `SYSTEM.INITIALIZATION`
 
-$ role
-AI Engineer
-
-$ mode
-Building production-grade intelligent systems
-$ focus
-- LLM applications
-- RAG pipelines
-- multi-agent orchestration
-- FastAPI backends
-- retrieval + reranking
-- streaming interfaces
-- voice + multilingual AI
-featured_project
-$ ls flagship
-NEXUS/
-
-NEXUS → View Project
-
-[ nexus ]
-multi-source ai research assistant
-
-[ capabilities ]
-- document ingestion
-- web search integration
-- retrieval augmented generation
-- citation-grounded answers
-- multilingual workflows
-- voice input / output
-- PDF export
-- live pipeline visualization
-stack
-<div align="center"> <img src="https://skillicons.dev/icons?i=python,fastapi,aws,docker,git,github,js,html,css,vscode" /> </div> <br/>
-[ ai / backend ]
-- LangGraph
-- ChromaDB
-- Groq
-- RAG
-- Retrieval + Reranking
-- Streaming APIs
-- AI Agent Workflows
-build_style
-[ what i optimize for ]
-accuracy      -> better retrieval, reranking, grounding
-trust         -> citations, observability, system clarity
-speed         -> fast APIs, streaming UX, efficient pipelines
-product_feel  -> polished interfaces, responsive interactions
-currently_building
-- AI research assistants
-- document intelligence systems
-- case-oriented knowledge workflows
-- multilingual AI products
-- voice-enabled interfaces
-- backend-heavy LLM applications
-github_signal
-<div align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=MSPK99&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=00000000&title_color=7C3AED&text_color=ffffff&icon_color=06B6D4&rank_icon=github" /> <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=MSPK99&theme=midnight-purple&hide_border=true&background=00000000&ring=7C3AED&fire=06B6D4&currStreakLabel=ffffff" /> <br/> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MSPK99&layout=compact&theme=midnight-purple&hide_border=true&bg_color=00000000&title_color=7C3AED&text_color=ffffff" /> </div>
-open_to
-- AI engineering roles
-- freelance AI builds
-- RAG / retrieval systems
-- multi-agent workflow development
-- intelligent internal tools
-- backend-heavy LLM products
-contact
-$ email
-praneethkumar.m@yahoo.com
-
-$ github
-https://github.com/MSPK99
-
-$ flagship
-https://github.com/MSPK99/nexus-showcase
-<div align="center"> <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:000000,50:7C3AED,100:06B6D4" />
-"I don't build AI gimmicks.
-I build AI systems."
-</div>
+```json
+{
+  "developer": "Sai Praneeth Kumar Molleti",
+  "designation": "AI Engineer",
+  "core_focus": [
+    "Production-grade RAG Pipelines",
+    "Multi-Agent Orchestration",
+    "High-Performance FastAPI Backends",
+    "Voice & Multilingual AI"
+  ],
+  "current_status": "Building intelligent systems that scale"
+}
+🧠 CORE_ARCHITECTURE<div align="center"><img src="https://skillicons.dev/icons?i=python,fastapi,aws,docker,git,github,js,html,css,vscode" /></div>LayerTechnologies & ParadigmsOrchestrationLangGraph, Multi-Agent Workflows, State MachinesData & RetrievalChromaDB, Retrieval + Reranking, Vector SearchInferenceGroq, LLM Integration, Voice AI OutputInfrastructureFastAPI, Streaming APIs, Real-time Interfaces🚀 FLAGSHIP_DEPLOYMENTNEXUS: Multi-Source AI Research AssistantA high-performance pipeline turning scattered data into cited, grounded, and actionable intelligence.Ingestion: Real-time document parsing and dynamic web search integration.Reasoning: Advanced RAG architecture with citation-grounded outputs.Interface: Multilingual processing, voice input/output, and live pipeline visualization.Output: Seamless PDF export and persistent knowledge storage.⚙️ OPTIMIZATION_PARAMETERSI build systems designed for the real world. My engineering philosophy prioritizes:🎯 Accuracy: Advanced retrieval, intelligent reranking, and hallucination reduction.🛡️ Trust: Verifiable citations, system observability, and clear reasoning traces.⚡ Speed: Lightning-fast APIs, streaming UX, and zero-bottleneck pipelines.✨ Product Feel: Highly responsive interfaces that feel like magic, not a prototype.📡 TELEMETRY<div align="center"><img height="165" src="https://github-readme-stats.vercel.app/api?username=MSPK99&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=00000000&title_color=7C3AED&text_color=ffffff&icon_color=06B6D4&rank_icon=github" /><img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=MSPK99&theme=midnight-purple&hide_border=true&background=00000000&ring=7C3AED&fire=06B6D4&currStreakLabel=ffffff" /><img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MSPK99&layout=compact&theme=midnight-purple&hide_border=true&bg_color=00000000&title_color=7C3AED&text_color=ffffff" /></div>🤝 HANDSHAKE_PROTOCOLActively open to: AI Engineering roles • Freelance AI Builds • Custom RAG / Retrieval Systems • Intelligent Internal Tools.<div align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:000000,50:7C3AED,100:06B6D4" />"I don't build AI gimmicks. I build AI systems."</div>
