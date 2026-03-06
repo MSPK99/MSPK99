@@ -184,34 +184,6 @@ status: "🟢 Open for work & freelance builds"
 
 <br/>
 
-## 📊 &nbsp;`METRICS`
-
-<div align="center">
-
-<a href="https://github.com/MSPK99">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=MSPK99&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7C3AED&text_color=c9d1d9&icon_color=06B6D4&ring_color=7C3AED&rank_icon=github" />
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/MSPK99">
-  <img height="180" src="https://streak-stats.demolab.com?user=MSPK99&theme=tokyonight&hide_border=true&background=0d1117&ring=7C3AED&fire=06B6D4&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=555555&currStreakNum=ffffff&sideNums=ffffff" />
-</a>
-
-<br/><br/>
-
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=MSPK99&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=7C3AED&line=06B6D4&point=ffffff&area=true&area_color=7C3AED" />
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=MSPK99&theme=discord&no-frame=true&no-bg=true&column=6&margin-w=15" />
-
-</div>
-
-<br/>
-
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
-
-<br/>
-
 ## 🤝 &nbsp;`LET'S BUILD SOMETHING`
 
 <div align="center">
