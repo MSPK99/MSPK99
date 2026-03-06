@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hey, I'm Praneeth 👋
 
-<!--
-**MSPK99/MSPK99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI Developer** building intelligent automation systems with LLMs, 
+RAG pipelines, and multi-agent architectures.
 
-Here are some ideas to get you started:
+🔭 Currently building **AI-powered document intelligence and case 
+management systems**
+🛠️ Stack: Python · FastAPI · LangGraph · ChromaDB · Groq · AWS
+🎓 M.Sc. Robotics & AI — University of Glasgow (QS #79)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Featured Project
+🚀 [**NEXUS**](https://github.com/MSPK99/nexus-showcase) — Multi-agent 
+AI research assistant with RAG, 25+ language support, voice I/O, and 
+real-time streaming. 3 specialized agents, 4 chunking strategies, 
+dual web search providers.
+
+---
+
+💬 Open to freelance AI development projects — 
+[reach out](mailto:praneethkumar.m@yahoo.com)
